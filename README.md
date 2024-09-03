@@ -34,4 +34,4 @@ Here are some of the exciting projects I've worked on that showcase my skills an
 
 **Languages**: HTML, CSS  
 **Description**: Leon Website Using HTML & CSS Only  
-**Link**: [Leon-Website](<URL>)
+**Link**: [Leon-Website](https://fares-taha.github.io/Leon/)
