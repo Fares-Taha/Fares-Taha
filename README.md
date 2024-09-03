@@ -9,8 +9,8 @@ Hi there! I'm Fares Taha, and I'm on a journey to become a skilled Full-Stack De
 - **🤝 I’m looking to collaborate on** Python Projects, Desktop Applications, Front-End Applications
 - **💬 Ask me about** Python, Web Development
 - **📫 How to reach me**
-  - [Facebook](https://www.facebook.com/profile.php?id=61552287861320&mibextid=zbwkwl)
-  - [Instagram](https://www.instagram.com/farestaha_)
+  - [Facebook](https://www.facebook.com/profile.php?id=61552287861320&mibextid=zbwkwl/)
+  - [Instagram](https://www.instagram.com/farestaha_/)
   - [LinkedIn](https://www.linkedin.com/in/fares-taha/)
 
 ## Skills and Tools
