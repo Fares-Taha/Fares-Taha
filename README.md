@@ -46,4 +46,4 @@ Here are some of the exciting projects I've worked on that showcase my skills an
 
 **Languages**: HTML, CSS  
 **Description**: Fares-World Website Using HTML & CSS Only  
-**Link**: [Kasper-Website](https://fares-taha.github.io/Fares-World/)
+**Link**: [Fares-World](https://fares-taha.github.io/Fares-World/)
