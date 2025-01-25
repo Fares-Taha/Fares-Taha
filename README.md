@@ -11,6 +11,7 @@ Hi there! I'm Fares Taha, and I'm on a journey to become a skilled Full-Stack De
 - **📫 How to reach me**
   - [Instagram](https://www.instagram.com/farestaha_)
   - [LinkedIn](https://www.linkedin.com/in/fares-taha)
+  - [Upwork](https://www.upwork.com/freelancers/~01adc99453cde46643?mp_source=share)
 
 ## Skills and Tools
 
