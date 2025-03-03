@@ -15,7 +15,7 @@ Hi there! I'm Fares Taha, and I'm on a journey to become a skilled Full-Stack De
 
 ## Skills and Tools
 
-- **Languages**: C, C++, Python, SQL, HTML, CSS
+- **Languages**: C, C++, Python, SQL, HTML, CSS, JavaScript
 - **Frameworks**: Flask
 - **Tools**: VS Code, DB Browser for SQLite, MySQL Workbench, Figma
 - **Other**: Command Line, Git, GitHub
