@@ -47,3 +47,9 @@ Here are some of the exciting projects I've worked on that showcase my skills an
 **Languages**: HTML, CSS  
 **Description**: Fares-World Website Using HTML & CSS Only  
 **Link**: [Fares-World-Website](https://fares-taha.github.io/Fares-World/)
+
+### Simple-Scheduling-Website
+
+**Languages**: HTML, CSS, JS
+**Description**: Fares-World Website Using HTML & CSS & JS
+**Link**: [Simple-Scheduling-Website](https://fares-taha.github.io/Simple-Scheduling/)
