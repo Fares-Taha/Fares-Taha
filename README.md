@@ -2,7 +2,16 @@
 
 ## About Me
 
-Hi there! I'm Fares Taha, and I'm on a journey to become a skilled Full-Stack Developer. Excited to dive into both front-end and back-end development!
+Hi, I’m Fares!  
+I’m a passionate Computer Science enthusiast with a strong focus on web development and a growing interest in Artificial Intelligence. I have hands-on experience in programming with C, C++, and Python, and I’m continuously sharpening my skills in algorithms and data structures.
+
+In web development, I work with Flask, HTML5, CSS, and JavaScript, and I’ve also built user-friendly interfaces using Figma and Tkinter. I’m comfortable managing databases using MySQL and SQLite and have a solid understanding of SQL.
+
+My technical toolkit includes Git, GitHub, and web scraping techniques. I also have experience with embedded systems, circuit and logic design, and integrated circuits from my work in electronics.
+
+Soft skills like communication, teamwork, presentation skills, and financial analysis support my technical abilities and help me collaborate effectively in any team environment.
+
+I'm always open to learning opportunities and collaborations. If you're interested in connecting or working together, feel free to reach out!
 
 - **💼 I’m currently working on** Front-End Websites
 - **🧑‍💻 I’m currently learning** Front-End Development
