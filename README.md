@@ -66,7 +66,7 @@ Here are some of the exciting projects I've worked on that showcase my skills an
 ### Conv-Freq-Website
 
 **Languages**: HTML, CSS  
-**Description**: Conv-Freq Website Using HTML & CSS & JS 
+**Description**: Conv-Freq Website Using HTML & CSS & JS  
 **Link**: [Fares-Dashboard-Website](https://fares-taha.github.io/Conv-Freq/)
 
 ### Simple-Scheduling-Website
