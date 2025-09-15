@@ -57,6 +57,18 @@ Here are some of the exciting projects I've worked on that showcase my skills an
 **Description**: Fares-World Website Using HTML & CSS Only  
 **Link**: [Fares-World-Website](https://fares-taha.github.io/Fares-World/)
 
+### Fares-Dashboard-Website
+
+**Languages**: HTML, CSS  
+**Description**: Fares-Dashboard Website Using HTML & CSS Only  
+**Link**: [Fares-Dashboard-Website](https://fares-taha.github.io/Fares-Dashboard/)
+
+### Conv-Freq-Website
+
+**Languages**: HTML, CSS  
+**Description**: Conv-Freq Website Using HTML & CSS & JS 
+**Link**: [Fares-Dashboard-Website](https://fares-taha.github.io/Conv-Freq/)
+
 ### Simple-Scheduling-Website
 
 **Languages**: HTML, CSS, JS  
