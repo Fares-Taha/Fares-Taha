@@ -1,76 +1,78 @@
-# Welcome to My GitHub Profile! 👋
+# 👋 Hi, I'm Fares Taha
 
-## About Me
+🚀 Cross-Platform Mobile App Developer | CS Student  
+📍 New Damietta, Egypt  
 
-Hi, I’m Fares!  
-I’m a passionate Computer Science enthusiast with a strong focus on web development and a growing interest in Artificial Intelligence. I have hands-on experience in programming with C, C++, and Python, and I’m continuously sharpening my skills in algorithms and data structures.
+I build scalable mobile and web applications using Flutter and modern development technologies.  
+Strong foundation in computer science, problem-solving, and system design.  
+Currently expanding my expertise toward Artificial Intelligence and intelligent systems.
 
-In web development, I work with Flask, HTML5, CSS, and JavaScript, and I’ve also built user-friendly interfaces using Figma and Tkinter. I’m comfortable managing databases using MySQL and SQLite and have a solid understanding of SQL.
+## 💻 Tech Stack
 
-My technical toolkit includes Git, GitHub, and web scraping techniques. I also have experience with embedded systems, circuit and logic design, and integrated circuits from my work in electronics.
+### 👨‍💻 Programming Languages
+- Dart
+- Python
+- C
+- C++
+- SQL
 
-Soft skills like communication, teamwork, presentation skills, and financial analysis support my technical abilities and help me collaborate effectively in any team environment.
+### 📱 Mobile Development
+- Flutter
+- Cross-platform App Development
+- REST API Integration
+- State Management
 
-I'm always open to learning opportunities and collaborations. If you're interested in connecting or working together, feel free to reach out!
+### 🌐 Web Development
+- Flask
+- HTML5
+- CSS
+- JavaScript
 
-- **💼 I’m currently working on** Front-End Websites
-- **🧑‍💻 I’m currently learning** Front-End Development
-- **🤝 I’m looking to collaborate on** Python Projects, Desktop Applications, Front-End Applications
-- **💬 Ask me about** Python, Web Development
-- **📫 How to reach me**
-  - [Instagram](https://www.instagram.com/farestaha_)
-  - [LinkedIn](https://www.linkedin.com/in/fares-taha)
-  - [Upwork](https://www.upwork.com/freelancers/~01adc99453cde46643?mp_source=share)
+### 🗄 Databases
+- MySQL
+- SQLite
 
-## Skills and Tools
+### 🛠 Tools & Technologies
+- Git & GitHub
+- Figma
+- Tkinter
+- Web Scraping
+- Embedded Systems Basics
 
-- **Languages**: C, C++, Python, SQL, HTML, CSS, JavaScript
-- **Frameworks**: Flask
-- **Tools**: VS Code, DB Browser for SQLite, MySQL Workbench, Figma
-- **Other**: Command Line, Git, GitHub
+## 🚀 Featured Projects
 
-## My Projects
+### 📱 Task Management App (Flutter)
+Cross-platform mobile app with local database integration.
 
-Here are some of the exciting projects I've worked on that showcase my skills and passion for development.
+**Tech:** Flutter, Dart, SQLite  
+🔗 [View Project](https://github.com/Fares-Taha)
 
-### Banking-Desktop-Application
+### 🌐 Student Management System (Flask)
+Web-based system with authentication and database management.
 
-**Languages**: Python, SQL  
-**Description**: This banking desktop application offers a streamlined and intuitive interface for handling various banking functions. Built with Tkinter, it supports operations such as creating new accounts, checking balances, making deposits and withdrawals, and viewing transaction histories. The application securely interfaces with a MySQL database to manage account details and transaction records. Developed collaboratively with a team, this project integrates Python, Tkinter, and MySQL to provide a secure, efficient, and user-friendly banking experience.  
-**Link**: [Banking-Desktop-Application](https://github.com/Mohamed-Geweida/Bank-Project/)
+**Tech:** Flask, MySQL, HTML, CSS  
+🔗 [View Project](https://github.com/Fares-Taha)
 
-### Leon-Website
+### 🐍 Python Web Scraper
+Automated tool for collecting and analyzing structured web data.
 
-**Languages**: HTML, CSS  
-**Description**: Leon Website Using HTML & CSS Only  
-**Link**: [Leon-Website](https://fares-taha.github.io/Leon/)
+**Tech:** Python, BeautifulSoup  
+🔗 [View Project](https://github.com/Fares-Taha)
 
-### Kasper-Website
+## 📊 GitHub Stats
 
-**Languages**: HTML, CSS  
-**Description**: Kasper Website Using HTML & CSS Only  
-**Link**: [Kasper-Website](https://fares-taha.github.io/Kasper/)
+![Fares's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fares-Taha&show_icons=true&theme=tokyonight)
 
-### Fares-World-Website
+## 🎯 Current Focus
 
-**Languages**: HTML, CSS  
-**Description**: Fares-World Website Using HTML & CSS Only  
-**Link**: [Fares-World-Website](https://fares-taha.github.io/Fares-World/)
+- Advanced Flutter Architecture
+- Clean Code & Scalable Systems
+- Artificial Intelligence & Machine Learning
 
-### Fares-Dashboard-Website
+## 📫 Let's Connect
 
-**Languages**: HTML, CSS  
-**Description**: Fares-Dashboard Website Using HTML & CSS Only  
-**Link**: [Fares-Dashboard-Website](https://fares-taha.github.io/Fares-Dashboard/)
+- 📧 Email: farestaha365@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/fares-taha  
+- 💻 GitHub: https://github.com/Fares-Taha  
 
-### Conv-Freq-Website
-
-**Languages**: HTML, CSS, JS  
-**Description**: Conv-Freq Website Using HTML & CSS & JS  
-**Link**: [Conv-Freq-Website](https://fares-taha.github.io/Conv-Freq/)
-
-### Simple-Scheduling-Website
-
-**Languages**: HTML, CSS, JS  
-**Description**: Simple-Scheduling Website Using HTML & CSS & JS  
-**Link**: [Simple-Scheduling-Website](https://fares-taha.github.io/Simple-Scheduling/)
+⭐ Always open to collaborations and freelance opportunities.
