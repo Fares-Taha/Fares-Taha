@@ -52,18 +52,12 @@ Currently expanding my expertise toward Artificial Intelligence and intelligent 
 **Languages**: HTML, CSS  
 **Description**: Leon Website Using HTML & CSS Only  
 **Link**: [Leon-Website](https://fares-taha.github.io/Leon/)
-- Advanced Flutter Architecture
-- Clean Code & Scalable Systems
-- Artificial Intelligence & Machine Learning
 
 ### Kasper-Website
 
 **Languages**: HTML, CSS  
 **Description**: Kasper Website Using HTML & CSS Only  
 **Link**: [Kasper-Website](https://fares-taha.github.io/Kasper/)
-- 📧 Email: farestaha365@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/fares-taha  
-- 💻 GitHub: https://github.com/Fares-Taha  
 
 ### Fares-World-Website
 
