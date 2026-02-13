@@ -53,16 +53,6 @@ Web-based system with authentication and database management.
 **Tech:** Flask, MySQL, HTML, CSS  
 🔗 [View Project](https://github.com/Fares-Taha)
 
-### 🐍 Python Web Scraper
-Automated tool for collecting and analyzing structured web data.
-
-**Tech:** Python, BeautifulSoup  
-🔗 [View Project](https://github.com/Fares-Taha)
-
-## 📊 GitHub Stats
-
-![Fares's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fares-Taha&show_icons=true&theme=tokyonight)
-
 ## 🎯 Current Focus
 
 - Advanced Flutter Architecture
