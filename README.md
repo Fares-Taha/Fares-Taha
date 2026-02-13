@@ -41,25 +41,13 @@ Currently expanding my expertise toward Artificial Intelligence and intelligent 
 
 ## 🚀 Featured Projects
 
-### 📱 Task Management App (Flutter)
-Cross-platform mobile app with local database integration.
-
-Here are some of the exciting projects I've worked on that showcase my skills and passion for development.
-**Tech:** Flutter, Dart, SQLite  
-🔗 [View Project](https://github.com/Fares-Taha)
-
 ### Banking-Desktop-Application
-### 🌐 Student Management System (Flask)
-Web-based system with authentication and database management.
 
 **Languages**: Python, SQL  
 **Description**: This banking desktop application offers a streamlined and intuitive interface for handling various banking functions. Built with Tkinter, it supports operations such as creating new accounts, checking balances, making deposits and withdrawals, and viewing transaction histories. The application securely interfaces with a MySQL database to manage account details and transaction records. Developed collaboratively with a team, this project integrates Python, Tkinter, and MySQL to provide a secure, efficient, and user-friendly banking experience.  
 **Link**: [Banking-Desktop-Application](https://github.com/Mohamed-Geweida/Bank-Project/)
-**Tech:** Flask, MySQL, HTML, CSS  
-🔗 [View Project](https://github.com/Fares-Taha)
 
 ### Leon-Website
-## 🎯 Current Focus
 
 **Languages**: HTML, CSS  
 **Description**: Leon Website Using HTML & CSS Only  
@@ -69,7 +57,6 @@ Web-based system with authentication and database management.
 - Artificial Intelligence & Machine Learning
 
 ### Kasper-Website
-## 📫 Let's Connect
 
 **Languages**: HTML, CSS  
 **Description**: Kasper Website Using HTML & CSS Only  
